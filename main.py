@@ -1,0 +1,5 @@
+print("Hello world")
+print("HI")
+print("random")
+print("record")
+print("spsat125")
